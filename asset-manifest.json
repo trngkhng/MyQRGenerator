@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/MyQRGenerator/static/css/main.4a84024f.css",
+    "main.js": "/MyQRGenerator/static/js/main.cc9342e4.js",
+    "static/media/bg.jpg": "/MyQRGenerator/static/media/bg.a5c00f5414551c5abe5b.jpg",
+    "static/media/PPTelegraf-UltraBold.otf": "/MyQRGenerator/static/media/PPTelegraf-UltraBold.c7dfda2145c1bb9ee3e9.otf",
+    "static/media/PPTelegraf-Regular.otf": "/MyQRGenerator/static/media/PPTelegraf-Regular.14ef6b05efc2391733a1.otf",
+    "static/media/PPTelegraf-UltraLight.otf": "/MyQRGenerator/static/media/PPTelegraf-UltraLight.4a2f96a95de82c364433.otf",
+    "static/media/logo.svg": "/MyQRGenerator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MyQRGenerator/index.html",
+    "main.4a84024f.css.map": "/MyQRGenerator/static/css/main.4a84024f.css.map",
+    "main.cc9342e4.js.map": "/MyQRGenerator/static/js/main.cc9342e4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a84024f.css",
+    "static/js/main.cc9342e4.js"
+  ]
+}
